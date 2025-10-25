@@ -1,0 +1,8 @@
+torch==2.2.0 
+torchtext==0.17.0
+portalocker>=2.0.0
+jupyter
+matplotlib
+scikit-learn
+transformers
+torchmetrics
